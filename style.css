@@ -205,7 +205,7 @@ body {
 }
 .meal-details-content p {
   padding: 2.5rem 0;
-  font-size: 2.4rem;
+  font-size: 2rem;
 }
 .meal-details-content p:not(.recipe-category) {
   padding: 2rem 0;
@@ -237,7 +237,7 @@ body {
 }
 .recipe-category {
   background: #fff;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   font-weight: 600;
   color: green;
   padding: 0.3rem 0.5rem;
@@ -250,7 +250,7 @@ body {
 
 .recipe-instruct {
   padding: 3rem 0;
-  font-size: 2.8rem;
+  font-size: 2.4rem;
 }
 .recipe-meal-img img {
   width: 100px;
